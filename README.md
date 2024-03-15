@@ -38,7 +38,7 @@ go run bot.go
 
 ---
 
-![image-20240315153258300](C:/Users/cobak/OneDrive/Рабочий стол/programming/tg_bot/readmeassets/usecases_1.png)
+![image-20240315153258300](./readmeassets/usecases_1.png)
 
 Варианты использования: 
 
@@ -46,7 +46,7 @@ go run bot.go
 * Вывод биографии философа;
 * Вывод случайной цитаты.
 
-![image-20240315153451410](C:/Users/cobak/OneDrive/Рабочий стол/programming/tg_bot/readmeassets/usecases_2.png)
+![image-20240315153451410](./readmeassets/usecases_2.png)
 
 Варианты использования: 
 
